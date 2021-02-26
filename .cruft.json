@@ -1,0 +1,13 @@
+{
+    "template": "/var/folders/lc/h0dg8z650pb_fk2wc83gcyf40000gn/T/python-lambda-templateYlM6iu",
+    "commit": "46a658eab8e33385185ec2aae6fa4fe70cd2521a",
+    "context": {
+        "cookiecutter": {
+            "component_id": "python-lambda",
+            "runtime": "python3.7",
+            "project_short_description": "Python Hello-world for SAM based Serverless App",
+            "_template": "/var/folders/lc/h0dg8z650pb_fk2wc83gcyf40000gn/T/python-lambda-templateYlM6iu"
+        }
+    },
+    "directory": null
+}
